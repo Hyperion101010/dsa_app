@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape android:shape="rectangle"
+            >
+            <corners android:radius="100dp"
+                />
+            <solid android:color="@color/neon_new"/>
+            <size android:height="60dp"
+                android:width="60dp"/>
+        </shape>
+    </item>
+    <item android:width="35dp"
+        android:height="35dp"
+        android:gravity="center"
+        android:drawable="@drawable/arrow">
+    </item>
+</layer-list>

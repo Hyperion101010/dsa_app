@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dsa</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="name">name</string>
+    <string name="fgt_password">Forgot your Password?</string>
+    <string name="full_name">full name</string>
+    <string name="rollno">enter roll no</string>
+    <string name="account_name">Account</string>
+    <string name="settings_name">Settings</string>
+    <string name="logout_name">logout</string>
+</resources>

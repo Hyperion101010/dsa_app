@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "313389751882",
+    "firebase_url": "https://data-structure-b2a3a.firebaseio.com",
+    "project_id": "data-structure-b2a3a",
+    "storage_bucket": "data-structure-b2a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313389751882:android:c3e8d903ceeb8ac0",
+        "android_client_info": {
+          "package_name": "com.example.hyperion.dsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313389751882-isr6m46on10i0u8mh1mfd3jbat0q89ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR4dMRmSZBX98kFfl9WOQ5b7dewGanv54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

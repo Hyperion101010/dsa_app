@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF336E</color>
+    <color name="bgclr">#182952</color>
+    <color name="email_clr">#f2f20d</color>
+    <color name="sign_clr">#0d96f2</color>
+    <color name="second">#2b3595</color>
+    <color name="neon_new">#e14594</color>
+</resources>
